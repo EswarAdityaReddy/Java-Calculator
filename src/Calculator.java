@@ -35,7 +35,7 @@ public class Calculator {
     String B = null;
 
     Calculator(){
-
+        // git check
         frame.setVisible(true);
         frame.setSize(boardWidth, boardHeight);
         frame.setLocationRelativeTo(null);
